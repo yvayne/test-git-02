@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+testsata--->cambio realizado a nivel local<---
+=======
 testsata--->cambio realizado en gitHub o repositorio remoto<----
+>>>>>>> e7bab5872434502ff9e276bf3a760b6317d29abd
