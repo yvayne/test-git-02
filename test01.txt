@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 test--added modification locally --
+=======
+test--added change on remote
+>>>>>>> 1e7099b3f76f815d93590ea7dac6b9bf1feff734
